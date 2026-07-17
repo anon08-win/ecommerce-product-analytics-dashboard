@@ -244,6 +244,5 @@ All insights are generated from the actual dataset. The dashboard automatically 
 - Automated consulting-style business insight generation grounded in actual data metrics
 - Reduced data preparation time by building modular Python pipeline with auto-download, feature engineering, and analytical dataset construction
 
-## License
+<img width="2878" height="1432" alt="image" src="https://github.com/user-attachments/assets/ca94b25f-9ff7-4175-a995-adb36e0fd347" />
 
-This project uses the Olist Brazilian E-Commerce Dataset (public domain).
