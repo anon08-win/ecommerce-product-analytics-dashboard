@@ -1,0 +1,5 @@
+stage,count,drop_off,drop_off_pct,conversion_pct
+Orders,98666,0.0,0.0,100.0
+Paid,98665,1.0,0.0,100.0
+Delivered,96478,2187.0,2.22,97.78
+Reviewed,95832,646.0,0.67,97.13
