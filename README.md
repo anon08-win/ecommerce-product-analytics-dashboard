@@ -245,4 +245,10 @@ All insights are generated from the actual dataset. The dashboard automatically 
 - Reduced data preparation time by building modular Python pipeline with auto-download, feature engineering, and analytical dataset construction
 
 <img width="2878" height="1432" alt="image" src="https://github.com/user-attachments/assets/ca94b25f-9ff7-4175-a995-adb36e0fd347" />
-
+<img width="2854" height="886" alt="image" src="https://github.com/user-attachments/assets/0515f712-0468-4c93-b8f8-fe9c6a9e4f5d" />
+<img width="2048" height="931" alt="image" src="https://github.com/user-attachments/assets/d24815bd-ae3d-411d-aa17-e62cda5d80e4" />
+<img width="2047" height="889" alt="image" src="https://github.com/user-attachments/assets/d3281261-2e62-4381-a92b-89969fbbeed3" />
+<img width="2048" height="969" alt="image" src="https://github.com/user-attachments/assets/463c460e-2cba-4018-9b2e-0565530490e6" />
+<img width="2048" height="660" alt="image" src="https://github.com/user-attachments/assets/d0efef6c-6e15-43d3-bc85-80135e7f2f61" />
+<img width="2048" height="728" alt="image" src="https://github.com/user-attachments/assets/1d3cf3ff-e093-480f-8865-3b4b44da0faa" />
+<img width="2048" height="950" alt="image" src="https://github.com/user-attachments/assets/864f8e6f-8d69-48b8-ba72-35e4918f93ff" />
